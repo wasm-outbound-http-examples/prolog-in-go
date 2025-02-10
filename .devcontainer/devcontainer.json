@@ -1,0 +1,8 @@
+{
+  "name": "Prolog in Go: HTTP request from WASM",
+  "image": "ubuntu:noble",
+  "features": {
+    "ghcr.io/devcontainers/features/go:1": {},
+    "ghcr.io/devcontainers/features/common-utils": {}
+  }
+}
